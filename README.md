@@ -1,0 +1,1 @@
+# Algoritmo_Preditivo_Para_Gera-o_de_Recomendacoes_de_Operacoes_Com_Opcoes_na_Bolsa_de_Valores
